@@ -4,6 +4,7 @@ import CslibTests.CCS.VendingMachine
 import CslibTests.CLL
 import CslibTests.Congruence
 import CslibTests.DFA
+import CslibTests.FreeExceptResearch
 import CslibTests.FreeMonad
 import CslibTests.GrindLint
 import CslibTests.HML
